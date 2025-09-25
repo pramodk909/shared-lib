@@ -1,0 +1,2 @@
+# shared-lib
+Submodule conflict 
